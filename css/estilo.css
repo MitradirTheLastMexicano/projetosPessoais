@@ -1,0 +1,118 @@
+.lato-regular {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.raleway-<uniquifier> {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: italic;
+}
+
+
+/* 
+
+
+*/
+
+body {
+  background: #F8F8FF;
+  margin: 0;
+}
+footer {
+  color: whitesmoke;
+  padding-bottom: 0px;
+}
+h2,h3{
+  color: #80B7FF;
+  
+  font-family: "Raleway", sans-serif;
+
+}
+p{
+  
+  font-family: "Lato", sans-serif;
+  font-style: normal;
+}
+input{
+  color: whitesmoke;
+}
+h1 {
+  color:#80C4FF;
+  font-family: "Raleway", sans-serif;
+
+}
+.imagem-entrada {
+  background-image: url('../imagens/wallpaper.jpg');
+  background-color: #cccccc;
+  width: 100%;
+  height: 650px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+/* Classes - config */
+
+.h1-config {
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: #80B7FF;
+
+}
+.conteudo-config {
+  background-color: #E5E5E5;
+}
+.img-config1{
+  width: 200px;
+  height: 200px;
+  background-image: url(../imagens/Lucas.jpg);
+  background-size: cover;
+  background-position: center;
+
+
+
+  
+}
+
+
+}
+.h1-cont-config {
+  background: #CCCCCC;
+}
+.sobre-config {
+
+  background-image: url("../imagens/sucesso.jpeg");
+  background-size: cover;
+  height: 400px;
+}
+.contato-config{
+  background-image: url("../imagens/contato2.jpeg");
+  background-size: cover;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: 450px;
+}
+.footer-config{
+  display: flex;
+  justify-content: center;
+  padding-bottom: 5px;
+  margin: 0;
+
+}
+.formulario-config{
+  background-color: #1d1d1d;
+  color: whitesmoke;
+}
+
+.papel-teste {
+  background-image: url("../imagens/lucas-trb.jpg");
+  background-size: cover;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: 680px;
+}
